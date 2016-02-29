@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[mcontrerasfoto]]></title>
+        <description><![CDATA[mcontrerasfoto]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 29 Feb 2016 11:23:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nuevo comienzo]]></title>
+            <description><![CDATA[<article><h1>Nuevo comienzo</h1><p>Bienvenidos a mi nuevo rincón personal donde poco a poco os iré mostrando, a través de mi cámara, todos aquellos lugares que para mi tienen algo especial.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a390152d61377c8b237ab86fab14fc375058081c.jpg"></article>]]></description>
+            <link>undefinednuevo-comienzo/index.html</link>
+            <guid isPermaLink="false">e9916783-100c-46cf-abe5-3165e097c6cf</guid>
+            <pubDate>Mon, 29 Feb 2016 11:23:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
